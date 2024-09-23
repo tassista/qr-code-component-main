@@ -19,7 +19,7 @@ img{
     
 }
 .wrapper{
-    height: calc(100vh - 2em);
+    height: 100vh;
     display: grid;
     place-content: center;
 }
